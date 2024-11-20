@@ -2,7 +2,7 @@
 
 I’m a **Cybersecurity enthusiast** passionate about securing digital systems and developing practical solutions. I’ve earned the **Google Cybersecurity Certificate** and am currently preparing for the **CompTIA Security+ certification**, continuously building my skills in secure development, risk mitigation, and system design.
 
-Verify certification here: https://lnkd.in/gdR4qQxW
+Verify certification here: (https://coursera.org/share/e402c91efe73167d849fd2f13249f0cc)
 
 ## What I Do  
 I focus on combining cybersecurity expertise with development skills to create secure, user-friendly applications. My work involves identifying vulnerabilities, implementing secure code practices, and designing systems that are both functional and resilient against modern threats.
